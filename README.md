@@ -1,2 +1,3 @@
 # hello-world
-这是我的第一个存储库
+Hello everyone!Nice to meet you!
+I'm glad to be a member of Github!
